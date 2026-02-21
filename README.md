@@ -1,16 +1,13 @@
 <h1 align="center">A Systematic Analysis of Zalish Mahmud</h1>
 <h3 align="center">PhD Student & Research Assistant @ UTEP | Former Industrial Agent (WellDev)</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zalishmahmud&show_icons=true&locale=en&layout=compact" alt="zalishmahmud" />
-</p>
-
 - 🎓 **Current Status**: Investigating complex neural phenomena at the University of Texas at El Paso (UTEP).
-- 🧪 **Primary Research**: Optimization of Deep Learning models and Conditional Generative Models (cGANs).
+- 🧪 **Primary Research**: Deep Learning models.
 - 🌱 **Recent Breakthrough**: Published **IMPUGAN** at IEEE BigData 2025—convincing GANs to fix broken data.
 - 👨‍💻 **Legacy Artifacts**: Three years of industrial-scale engineering at WellDev (2022-2025), surviving the transition from Rails monoliths to PyTorch tensors.
 - 💬 **Ask me about**: PyTorch, TensorFlow, Neural Imputation, and why my Valorant rank is inversely proportional to my research output.
-- 📫 **How to reach me**: [zalishmahmud@gmail.com](mailto:zalishmahmud@gmail.com).
+- 📫 **How to reach me**: [zalishmahmud1@gmail.com](mailto:zalishmahmud1@gmail.com).
+- 🌐 **Website**: [zalish.vercel.app](https://zalish.vercel.app/)
 
 <h3 align="left">Connect with the Researcher:</h3>
 <p align="left">
