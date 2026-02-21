@@ -42,8 +42,9 @@
 ---
 
 ### Recent Experimental Results
-- **IMPUGAN** (IEEE BigData 2025): Robust data imputation via conditional generative models [user prompt].
-- **Explainable Deepfake Detection**: Identifying generative lies using CapsuleNets.
-- **Cyberbullying Detection**: NLP analysis of harassment patterns in Bangla.
+- **[IMPUGAN](https://www.arxiv.org/pdf/2512.05950)** (IEEE BigData 2025): Robust data imputation via conditional generative models.
+- **[Explainable Deepfake Detection](https://arxiv.org/abs/2404.12841)**: Identifying generative lies using CapsuleNets.
+- **[Cyberbullying Detection](https://arxiv.org/abs/2106.04506)**: NLP analysis of harassment patterns in Bangla.
+- **[Bangla Text Dataset](https://arxiv.org/abs/2102.02478)**: Exploratory analysis and dataset creation for harassment detection.
 
 <p align="center"><i>"Turning coffee and GPU hours into research drafts since 2025."</i></p>
