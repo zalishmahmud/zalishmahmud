@@ -7,7 +7,7 @@
 
 - 🎓 **Current Status**: Investigating complex neural phenomena at the University of Texas at El Paso (UTEP).
 - 🧪 **Primary Research**: Optimization of Deep Learning models and Conditional Generative Models (cGANs).
-- 🌱 **Recent Breakthrough**: Published **IMPUGAN** at IEEE BigData 2025—convincing GANs to fix broken data so humans don't have to [user prompt].
+- 🌱 **Recent Breakthrough**: Published **IMPUGAN** at IEEE BigData 2025—convincing GANs to fix broken data.
 - 👨‍💻 **Legacy Artifacts**: Three years of industrial-scale engineering at WellDev (2022-2025), surviving the transition from Rails monoliths to PyTorch tensors.
 - 💬 **Ask me about**: PyTorch, TensorFlow, Neural Imputation, and why my Valorant rank is inversely proportional to my research output.
 - 📫 **How to reach me**: [zalishmahmud@gmail.com](mailto:zalishmahmud@gmail.com).
